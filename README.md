@@ -29,7 +29,7 @@ My name is Inga Karolak and I'm a 29 year old software testing enthusiast. I've 
 
 ## My test case examples
 
-- [Test case for Goodreads site](https://docs.google.com/document/d/1JXulyDkP3lzAtcgucbRmUiyYyG1Te6rm/edit?usp=sharing&ouid=106457796484079014946&rtpof=true&sd=true)
+- [Test cases for Goodreads site](https://drive.google.com/file/d/1XcAOmFDP4ZkcMa_AYMVqEGePXywk54M-/view?usp=sharing)
 
 ## My bug reports
 
