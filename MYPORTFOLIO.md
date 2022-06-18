@@ -10,6 +10,7 @@ My name is Inga Karolak and I'm a 29 year old software testing enthusiast. I've 
 - GitHub - Git repository hosting service
 - Visual Studio - Integrated development environment for Microsoft Windows
 - Postman - API platform for building and using APIs
+- MySQL - Open source relational database management system
 
 ## Tech skills
 
