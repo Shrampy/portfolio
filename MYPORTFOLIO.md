@@ -35,3 +35,4 @@ My name is Inga Karolak and I'm a 29 year old software testing enthusiast. I've 
 ## My bug reports
 
 - [Bug reported for Auchan site](https://docs.google.com/document/d/1T-anfHA1p-MJ0Y04YzSl6yTk8Kfl-cgDcOSlko4xVAg/edit?usp=sharing)
+- [Bug reported for photoAiD app](https://docs.google.com/document/d/1qajADgSinBt4y88XFqxGNkZVGQJe9-Z3s8HPjOT0uPw/edit?usp=sharing)
