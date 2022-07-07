@@ -31,9 +31,10 @@ My name is Inga Karolak and I'm a 29 year old software testing enthusiast. I've 
 ## My test case examples
 
 - [Test cases for Goodreads site](https://drive.google.com/file/d/1XcAOmFDP4ZkcMa_AYMVqEGePXywk54M-/view?usp=sharing)
+- [Test cases for Allegro registration site](https://docs.google.com/document/d/1_6eja3cGP5aLxgVhGkJ8vVP9h9-JTv02XfHt9Qv_Its/edit?usp=sharing)
 
 ## My bug reports
 
 - [Bug reported for Auchan site](https://docs.google.com/document/d/1T-anfHA1p-MJ0Y04YzSl6yTk8Kfl-cgDcOSlko4xVAg/edit?usp=sharing)
 - [Bug reported for photoAiD app](https://docs.google.com/document/d/1qajADgSinBt4y88XFqxGNkZVGQJe9-Z3s8HPjOT0uPw/edit?usp=sharing)
-- [Test cases for Allegro registration site](https://docs.google.com/document/d/1_6eja3cGP5aLxgVhGkJ8vVP9h9-JTv02XfHt9Qv_Its/edit?usp=sharing)
+
